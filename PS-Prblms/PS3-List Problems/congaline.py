@@ -1,7 +1,3 @@
-# # Name: Nivash Sudalaimani
-# # Lab: B1(Jeanette)
-# # Student ID:A0280048H
-# # Email:e1143861@u.nus.edu
 from collections import deque
 import sys
 a, b = map(int, input().split())
